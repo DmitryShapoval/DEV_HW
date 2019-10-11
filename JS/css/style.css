@@ -1,0 +1,148 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(#23459059, transparent);
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    -webkit-user-select: none
+}
+
+.calc {
+    width: 220px;
+    min-height: 280px;
+    background: #000000a6;
+    border-radius: 10px;
+    padding: 10px
+}
+
+#talo,
+#talo input {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    text-align: right;
+    height: 50px
+}
+
+#calc__clear:hover {
+    background: red
+}
+.btn_op{
+    width:25%;
+}
+button {
+    outline: 0
+}
+#talo {
+    border: 1px solid #dadada;
+    padding-right: 5px;
+    cursor: not-allowed;
+    background: #908a8a9e;
+    color: #fff;
+    font-size: 16px;
+    overflow: hidden
+}
+
+#talo:focus {
+    outline: 0
+}
+
+.calc__menu {
+    margin-top: 20px;
+    border: 1px solid #dadada
+}
+
+.calc__row {
+    display: flex;
+    justify-content: center;
+    align-content: space-between
+}
+
+.calc__row .btn {
+    cursor: pointer;
+    width: 25%;
+    height: 44px;
+    color: #fff;
+    background: #274fbd;
+    border: 1px solid #bd2727;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 20px
+}
+
+.btn_op {
+    background: #bf795f;
+    cursor:pointer;
+    border: 1px solid #dadada;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 20px
+}
+#dub{
+    width:25%;
+    background: #bf795f;
+    cursor:pointer;
+    border: 1px solid #dadada;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 20px
+}
+.btn_op:hover ,#dub:hover{
+    background: #ffa704;
+}
+
+.calc__row .btn:hover , .calc__menu .calc__row:last-child .bigbuttonend:first-child:hover{
+    background: #00a1ffe0;
+}
+
+.calc__menu .calc__row:last-child .bigbuttonend:first-child ,.calc__menu .calc__row:last-child .bigbuttonend:last-child{
+    width: 50%;
+    cursor:pointer;
+    border: 1px solid #dadada;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 20px;
+    height: 44px;
+    color: #fff;
+}
+.calc__menu .calc__row:last-child .bigbuttonend:first-child{
+    background: #00a1ff9e;
+}
+.calc__menu .calc__row:last-child .bigbuttonend:last-child{
+
+}
+.calc__menu .calc__row:nth-child(4) .btn:first-child{
+width:50%;
+}
+
+.calc__output {
+    position: relative;
+    transition: .2s;
+    padding-top: 0
+}
+
+.calc__output #output__input-memory {
+    position: absolute;
+    background: 0 0;
+    border: none;
+    color: #ababab;
+    left: 0;
+    top: 4px;
+    height: 18px;
+    font-size: 12px;
+    transition: .3s
+}
+
+.calc__output #output__input.active {
+    padding-top: 18px;
+    transition: .1s
+}
+#del{
+    background:#ff0000;
+}
+#del:hover{
+     background:#bd2727;
+ }
