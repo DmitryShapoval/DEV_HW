@@ -67,3 +67,12 @@ C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.3/Calculator1.1/Calculator
 /home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.cache
 /home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.exe
 /home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.pdb
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/bin/Debug/Calculator.exe.config
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/bin/Debug/Calculator.exe
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/bin/Debug/Calculator.pdb
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.Calculator.resources
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.Properties.Resources.resources
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.csproj.GenerateResource.cache
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.exe
+/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/obj/Debug/Calculator.pdb

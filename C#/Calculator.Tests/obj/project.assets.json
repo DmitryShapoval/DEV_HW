@@ -5753,11 +5753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator.Tests/Calculator.Tests.csproj",
+      "projectUniqueName": "/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator.Tests/Calculator.Tests.csproj",
       "projectName": "Calculator.Tests",
-      "projectPath": "/home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator.Tests/Calculator.Tests.csproj",
+      "projectPath": "/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator.Tests/Calculator.Tests.csproj",
       "packagesPath": "/home/dmitriy/.nuget/packages/",
-      "outputPath": "/home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator.Tests/obj/",
+      "outputPath": "/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5774,8 +5774,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator/Calculator.csproj": {
-              "projectPath": "/home/dmitriy/Рабочий стол/HW1/Калькулятор с тестами/C#/Calculator1.3/Calculator1.1/Calculator/Calculator/Calculator.csproj"
+            "/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/Calculator.csproj": {
+              "projectPath": "/home/dmitriy/Рабочий стол/DEV_HW/Calculator/C#/Calculator/Calculator.csproj"
             }
           }
         }
