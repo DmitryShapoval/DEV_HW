@@ -18,12 +18,12 @@ body {
     padding: 10px
 }
 
-#talo,
-#talo input {
+#tablo,
+#tablo input {
     width: 100%;
     box-sizing: border-box;
     border: none;
-    text-align: right;
+    text-align: left;
     height: 50px
 }
 
@@ -36,9 +36,9 @@ body {
 button {
     outline: 0
 }
-#talo {
+#tablo {
     border: 1px solid #dadada;
-    padding-right: 5px;
+    padding-left: 5px;
     cursor: not-allowed;
     background: #908a8a9e;
     color: #fff;
@@ -46,7 +46,7 @@ button {
     overflow: hidden
 }
 
-#talo:focus {
+#tablo:focus {
     outline: 0
 }
 
