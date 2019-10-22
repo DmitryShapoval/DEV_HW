@@ -107,12 +107,12 @@
             // division1
             // 
             this.division1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.division1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.division1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.division1.Location = new System.Drawing.Point(246, 3);
             this.division1.Name = "division1";
             this.division1.Size = new System.Drawing.Size(75, 52);
             this.division1.TabIndex = 3;
-            this.division1.Text = "%";
+            this.division1.Text = "÷";
             this.division1.UseVisualStyleBackColor = false;
             this.division1.Click += new System.EventHandler(this.division1_Click);
             // 

@@ -18,14 +18,14 @@ namespace Calculator
         {
             if (result.Length > 8)
             {
-                string newResult = result.Substring(0, 9);
+                //string newResult = result.Substring(0, 9);
 
-                if (newResult[newResult.Length - 1] == '.')
-                {
-                    newResult = newResult.Substring(0, newResult.Length - 1);
-                }
+                //if (newResult[newResult.Length - 1] == '.')
+                //{
+                //    newResult = newResult.Substring(0, newResult.Length - 1);
+                //}
 
-                return newResult;
+                return "error";
             }
             else
             {

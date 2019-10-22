@@ -31,6 +31,8 @@ namespace Calculator
 
         private bool isMinus = false;
 
+        private bool isError = false;
+
         private Mathematician mathematician = new Mathematician();
 
         private void one_Click(object sender, EventArgs e)
@@ -150,6 +152,11 @@ namespace Calculator
             display.Text = mathematician.CutDisplay(result.ToString());
             //TheEquation.Text = "";
             number = mathematician.CutDisplay(result.ToString());
+            if(number == "error")
+            {
+                isError = true;
+                number = "0";
+            }
             equation = "";
             numbers.Clear();
             solved = true;
@@ -167,6 +174,11 @@ namespace Calculator
                 numbers.Add(new Number(number, character));
                 solved = false;
                 countOfOperation = 1;
+                if (isError)
+                {
+                    UpdateResult();
+                    isError = false;
+                }
             }
             else
             {
