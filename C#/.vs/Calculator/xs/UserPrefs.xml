@@ -8,12 +8,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Calculator" expanded="True">
-            <Node name="Calculator" selected="True" />
+            <Node name="Calculator.Tests" expanded="True">
+              <Node name="MathematicianTests.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
