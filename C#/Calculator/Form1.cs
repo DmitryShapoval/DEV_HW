@@ -25,7 +25,7 @@ namespace Calculator
 
         private List<Number> numbers = new List<Number>();
 
-        private float result = 0;
+        private decimal result = 0;
 
         private bool solved = false;
 
@@ -120,6 +120,12 @@ namespace Calculator
 
         private void dot_Click(object sender, EventArgs e)
         {
+            if (solved)
+            {
+                number = "0.";
+                countOfSymbol++;
+                solved = false;
+            }
             if(number.Length == 0)
             {
                 number += "0.";
@@ -282,7 +288,7 @@ namespace Calculator
         {
             numbers.Clear();
             display.Text = "0";
-            number = "";
+            number = "0";
             equation = "";
             countOfSymbol = 0;
         }

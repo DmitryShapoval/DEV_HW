@@ -58,12 +58,22 @@ C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.3/Calculator1.1/Calculator
 C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
 C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.exe
 C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.3/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.pdb
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.exe.config
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.exe
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.pdb
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.Calculator.resources
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.cache
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.exe
-/home/dmitriy/Рабочий стол/New calc C#/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.pdb
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.exe.config
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.exe
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/bin/Debug/Calculator.pdb
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.Calculator.resources
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csproj.GenerateResource.cache
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.exe
+C:/Users/olegg/Downloads/Telegram Desktop/Calculator1.4/Calculator1.1/Calculator/Calculator/obj/Debug/Calculator.pdb
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/bin/Debug/Calculator.exe.config
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/bin/Debug/Calculator.exe
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/bin/Debug/Calculator.pdb
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.Calculator.resources
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.Properties.Resources.resources
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.csproj.GenerateResource.cache
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.exe
+/home/dmitriy/Рабочий стол/DEV_HW/C#/Calculator/obj/Debug/Calculator.pdb

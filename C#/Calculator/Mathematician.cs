@@ -16,7 +16,7 @@ namespace Calculator
 
         public string CutDisplay(string result)
         {
-            if (result.Length > 8)
+            if (result.Length > 9)
             {
                 //string newResult = result.Substring(0, 9);
 
@@ -34,9 +34,9 @@ namespace Calculator
         }
 
 
-        internal float ToCount(float a, float b, string character)
+        internal decimal ToCount(decimal a, decimal b, string character)
         {
-            float result;
+            decimal result;
             if (character == "+")
             {
                 result = a + b;
@@ -51,34 +51,37 @@ namespace Calculator
             }
             else
             {
-                result = a / b;
+                try
+                {
+                    result = a / b;
+                }
+                catch (DivideByZeroException)
+                {
+                    return 0;
+                }
             }
 
-
-            if (float.IsNaN(result) || float.IsPositiveInfinity(result) || float.IsNegativeInfinity(result))
-            {
-                result = 0;
-            }
+            
 
             return result;
         }
 
-        public float ToFold(float a, float b)
+        public decimal ToFold(decimal a, decimal b)
         {
             return ToCount(a, b, "+");
         }
 
-        public float Subtract(float a, float b)
+        public decimal Subtract(decimal a, decimal b)
         {
             return ToCount(a, b, "-");
         }
 
-        public float Multiply(float a, float b)
+        public decimal Multiply(decimal a, decimal b)
         {
             return ToCount(a, b, "*");
         }
 
-        public float Share(float a, float b)
+        public decimal Share(decimal a, decimal b)
         {
             return ToCount(a, b, "/");
         }
